@@ -31,4 +31,4 @@ Screenshot of notebook
 Explanation of SCD Type 2 logic in comments or markdown cells
 
 
-#### Download the dataset in the challenge folder
+#### Download the dataset(scd_data.csv) in the challenge folder

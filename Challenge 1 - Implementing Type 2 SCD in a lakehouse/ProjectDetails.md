@@ -1,28 +1,33 @@
 # Project Details
 
-💡 Microsoft Fabric Challenge: Implement SCD Type 2 in Lakehouse
-🎯 Objective
+##💡 Microsoft Fabric Challenge: Implement SCD Type 2 in Lakehouse 
+
+### 🎯 Objective
+
 Use PySpark in a Microsoft Fabric Lakehouse to implement Slowly Changing Dimension Type 2 (SCD Type 2) to track changes in employee records over time.
 
-🗂️ Scenario
+### 🗂️ Scenario
+
 Your company maintains an employee_master table with records such as name, department, and job title. Over time, employees may change departments or job titles. You need to track historical changes using SCD Type 2 logic in the dim_employee dimension table.
 
 
-✅ Success Criteria
+### ✅ Success Criteria
+
 SCD Type 2 implemented correctly using PySpark.
 
 No duplicate active records.
 
 Correct handling of unchanged vs. changed rows.
 
-🧪 Bonus
+### 🧪 Bonus 
+
 Add unit tests or validation checks:
 
 Count of current vs. historical records
 
 Row count consistency over time
 
-📁 Deliverables
+### 📁 Deliverables 
 Participants must submit:
 
 Notebook: SCD Type 2 Implementation

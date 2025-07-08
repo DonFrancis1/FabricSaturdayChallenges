@@ -19,19 +19,13 @@ No duplicate active records.
 
 Correct handling of unchanged vs. changed rows.
 
-### 🧪 Bonus 
-
-Add unit tests or validation checks:
-
-Count of current vs. historical records
-
-Row count consistency over time
-
 ### 📁 Deliverables 
-Participants must submit:
+Architectural Diagram of Project Implementation
 
 Notebook: SCD Type 2 Implementation
 
 Screenshot of final dim_employee table
+
+Screenshot of notebook
 
 Explanation of SCD Type 2 logic in comments or markdown cells

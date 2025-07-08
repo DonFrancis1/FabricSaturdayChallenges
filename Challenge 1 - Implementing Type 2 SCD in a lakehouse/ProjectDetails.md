@@ -1,6 +1,6 @@
 # Project Details
 
-##💡 Microsoft Fabric Challenge: Implement SCD Type 2 in Lakehouse 
+## 💡 Microsoft Fabric Challenge: Implement SCD Type 2 in Lakehouse 
 
 ### 🎯 Objective
 

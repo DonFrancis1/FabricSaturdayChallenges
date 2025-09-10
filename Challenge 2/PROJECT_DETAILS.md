@@ -12,13 +12,17 @@ Van Arsdel has been experiencing severe performance issues with their quarterly 
 ## Current Issues:
 
 Dashboard load time: 10 - 15 Seconds
+
 Model size: 192 MB 
+
 Visuals timing out sometimes
 
 ## Business Impact:
 
 Executive productivity loss of 2-3 hours weekly
+
 Decision-making delays affecting quarterly planning
+
 Board presentation failures damaging stakeholder confidence
 
 
@@ -47,7 +51,8 @@ Board presentation failures damaging stakeholder confidence
 - send deliverables to fabriccommunitynigeria@gmail.com
 - Post your solution on the community [group](https://www.linkedin.com/groups/11889008/)
 - Tag community [page](https://www.linkedin.com/company/fabric-user-group-nigeria/)
-- Submissions less than 24 hours to meetup date are no longer eligible 
+- Submissions deadline is 19th Sept, 2025 12noon
+
 
 
 

@@ -51,7 +51,8 @@ Board presentation failures damaging stakeholder confidence
 - send deliverables to fabriccommunitynigeria@gmail.com
 - Post your solution on the community [group](https://www.linkedin.com/groups/11889008/)
 - Tag community [page](https://www.linkedin.com/company/fabric-user-group-nigeria/)
-- Submissions deadline is 19th Sept, 2025 12noon
+- Submissions deadline is 19th Sept, 2025 12pm WAT
+
 
 
 

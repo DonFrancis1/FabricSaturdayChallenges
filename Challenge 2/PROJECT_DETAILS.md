@@ -7,7 +7,7 @@
 Improve the data model size and query performance of the Power BI Model using best practices.
 
 ### 🗂️ Scenario
-Van Arsdel has been experiencing severe performance issues with their quarterly executive dashboard. The COO, escalated concerns after the board meeting dashboard took average 10 - 15 seconds to load on every interaction creating a bad experience for stakeholders.
+Van Arsdel has been experiencing severe performance issues with their quarterly executive dashboard. The COO escalated concerns after the board meeting dashboard took an average 10 - 15 seconds to load on every interaction, creating a bad experience for stakeholders.
 
 ## Current Issues:
 
@@ -24,12 +24,16 @@ Board presentation failures damaging stakeholder confidence
 
 ### ✅ Goal
 1.	Reduce Data Model Size to less than 40 MB following Data model best practices
-![alt text](image.png)
+
+<img width="622" height="413" alt="image" src="https://github.com/user-attachments/assets/8af52e2b-3243-41e3-84d1-1119628dc0c0" />
 
 
-2.	Optimize DAX Measures in underlisted visuals to render in less than 2 seconds while protecting data integrity
-![alt text](image-1.png)
-![alt text](image-2.png)
+
+3.	Optimize DAX Measures in underlisted visuals to render in less than 2 seconds while protecting data integrity
+<img width="656" height="503" alt="image" src="https://github.com/user-attachments/assets/a4d57120-5623-4ec4-934e-0a12652284f6" />
+
+<img width="975" height="497" alt="image" src="https://github.com/user-attachments/assets/4a993159-680b-465d-9e8f-7fd9dda6f0f1" />
+
 
 
 ### 📁 Deliverables 
@@ -42,3 +46,4 @@ Board presentation failures damaging stakeholder confidence
 
 
 #### Download the dataset in the Project Data Folder. Dataset is optional in case accessing Power Query is necessary.
+

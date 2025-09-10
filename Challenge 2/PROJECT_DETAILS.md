@@ -43,11 +43,12 @@ Board presentation failures damaging stakeholder confidence
 
 #### Download the dataset and Power BI file [here](https://drive.google.com/drive/folders/1yRPaCJ_ex0K2qOpc_gy9SfH5TKLb-SzM?usp=sharing). Dataset is optional in case accessing Power Query is necessary.
 
-### Submission
+### ✔️ Submission
 - send deliverables to fabriccommunitynigeria@gmail.com
 - Post your solution on the community [group](https://www.linkedin.com/groups/11889008/)
 - Tag community [page](https://www.linkedin.com/company/fabric-user-group-nigeria/)
 - Submissions less than 24 hours to meetup date are no longer eligible 
+
 
 
 

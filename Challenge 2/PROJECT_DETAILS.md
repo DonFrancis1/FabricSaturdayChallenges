@@ -29,6 +29,9 @@ Board presentation failures damaging stakeholder confidence
 
 
 
+
+
+
 3.	Optimize DAX Measures in underlisted visuals to render in less than 2 seconds while protecting data integrity
 <img width="656" height="503" alt="image" src="https://github.com/user-attachments/assets/a4d57120-5623-4ec4-934e-0a12652284f6" />
 
@@ -46,4 +49,5 @@ Board presentation failures damaging stakeholder confidence
 
 
 #### Download the dataset in the Project Data Folder. Dataset is optional in case accessing Power Query is necessary.
+
 
